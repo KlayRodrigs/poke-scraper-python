@@ -40,7 +40,7 @@ This project leverages advanced web scraping techniques in Python to collect fas
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Klayrodrigs/poke-scraper-python.git
-   cd poke-scraper
+   cd poke-scraper-python
    ```
 
 2. **Create a Virtual Environment**
@@ -61,7 +61,7 @@ This project leverages advanced web scraping techniques in Python to collect fas
 
 4. **Run the Scraper**
    ```bash
-   python poke_scraping.py
+   python poke_scraper.py
    ```
 
 #### Troubleshooting
